@@ -1,4 +1,4 @@
-# 50BasicProjects
+# 25_BasicProjects
 This repository contains 50 basic projects to start coding.
 All the projects in the repository contains following language:
 
