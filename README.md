@@ -9,7 +9,7 @@ All the projects in the repository contains following language:
 A great place to start your coding journey, however study about DOM structure before hand and then simply download VS code and start coding in HTML then to CSS and then JS.
 <br><b>Index</b>
 
-<li>This repository will give basic understanding of frontend code (the code that makes code readable/pretty/structured for everyone to read)</li>
-<li>Further understanding of frontend framework (a structured and formal way to code frontend and using libaries) we will use Vue.Js and Bootstrap.css, it helps to make life easy for frontend developers, check out my repository for Vue.js based projects </a> </li>
+<li>This repository will give basic understanding of code & DOM in Use </li>
+<li>Further understanding of frontend frameworks (a structured and formal way to code frontend and using libraries) check out my repository for Vue.js based projects </a> </li>
 
 
